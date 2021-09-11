@@ -59,7 +59,7 @@ public class Clock_Stopwatch extends JFrame implements ActionListener {
 		
 	boolean started = false;
 
-	String sec_string = String.format("%03d", seconds);
+	String sec_string = String.format("%02d", seconds);
 	String min_string = String.format("%02d", minutes);
 	String hour_string = String.format("%02d", hours);
 		
