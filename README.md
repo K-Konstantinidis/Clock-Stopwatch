@@ -8,5 +8,5 @@ After these, there is a button. If you press the button, then with the use of th
 to 'Stopwatch' and the layout will also change. In the new layout there are 3 buttons and a timer. You can start the timer, pause the timer,
 and reset the timer. The other button with the title of "Clock" will change the layout back to the clock one.
 
-This is a begginers project, so if you really want to try it you can download the code and compare it to yours.
-Also there is a good amount of comments in the code to help you understand how everything works.
+This is a beginners project, so if you really want to try it you can download the code and compare it to yours.
+For more information about how the code works, there are lots of comments in the .java files to help you understand everything and follow along with ease!
