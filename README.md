@@ -1,5 +1,5 @@
 # Clock-Stopwatch
-This is a repository for a java project that creates a clock which can turn to a stopwatch and vice versa
+This a java project that creates a clock which can turn to a stopwatch and vice versa.
 
 More about the project:
 As mentioned in the description of the repository, this is a java project. If you run the main method, then with the use of
